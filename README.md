@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aprianwdh
 - 👀 I’m interested in Game Developer
-- 🌱 I’m currently learning phyton, c++, Godot Engine, and Unity
+- 🌱 I’m currently learning phyton, c#, Godot Engine, and Unity
 - 💞️ I’m looking to collaborate on GameDev
 - 📫 How to reach me @aprianwidhiwibowo@gmail.com
 - 😄 Pronouns: he/him/his
