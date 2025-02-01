@@ -5,7 +5,7 @@
 - 📫 How to reach me @aprianwidhiwibowo@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: i like  anime and like a games
-- 🎮 my itch.io : https://aprwdhwbw.itch.io/
+- 🎮 my itch.io : https://apriwwdev.itch.io/
 
 <!---
 aprianwdh/aprianwdh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
