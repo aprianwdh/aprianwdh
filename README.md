@@ -1,13 +1,39 @@
-- 👋 Hi, I’m @aprianwdh 
-- 👀 I’m interested in Game Developer
-- 🌱 I’m currently learning phyton, Godot Engine, Unity, html, css, and js
-- 💞️ I’m looking to collaborate on GameDev and FullStack Dev
-- 📫 How to reach me @aprianwidhiwibowo@gmail.com
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: i like  anime and like a games
-- 🎮 my itch.io : https://apriwwdev.itch.io/
+# 👋 Hi, I'm Aprian Widhi Wibowo (@aprianwdh)
 
-<!---
-aprianwdh/aprianwdh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+An Informatics Engineering Education student passionate about crafting games and web applications. I bridge the gap between education, clean code, and interactive experiences!
+
+---
+
+### 🎓 Education
+- **Universitas Muhammadiyah Surakarta (UMS)**  
+  *Bachelor of Education in Informatics Engineering Education (Pendidikan Teknik Informatika)*  
+  *Current Student*
+
+---
+
+### 👀 About Me & Interests
+- 🎮 **Game Development:** Currently exploring 2D/3D environments, game mechanics, and pixel art.
+- 🌐 **FullStack Development:** Building responsive layouts and connecting them with solid logic.
+- ⚡ **Fun Fact:** Big fan of anime and narrative-driven games (huge RPG/Persona series enthusiast!).
+- 📚 **Hobbies:** Listening to music and reading manga (Naoki Urasawa's works are gold) to balance out my coding routine.
+
+---
+
+### 🌱 Tech Stack & Tools
+- **Languages:** Python, JavaScript, HTML5, CSS3, GDScript
+- **Game Engines:** Godot Engine, Unity
+- **Version Control:** Git & GitHub
+
+---
+
+### 💞️ Collaboration & Projects
+I'm highly open to collaborating on:
+- **Game Jams** or indie game projects (especially using Godot).
+- **FullStack Web Applications** (frontend styling or backend logic).
+- Educational tech or open-source projects.
+
+---
+
+### 📫 Let's Connect!
+- 📩 **Email:** aprianwidhiwibowo@gmail.com
+- 🎮 **Itch.io:** [enzwich-aprianwdh.itch.io](https://enzwich-aprianwdh.itch.io)
