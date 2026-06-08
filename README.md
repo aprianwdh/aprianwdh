@@ -13,7 +13,6 @@ An Informatics Engineering Education student passionate about crafting games and
 
 ### 👀 About Me & Interests
 - 🎮 **Game Development:** Currently exploring 2D/3D environments, game mechanics, and pixel art.
-- 🌐 **FullStack Development:** Building responsive layouts and connecting them with solid logic.
 - ⚡ **Fun Fact:** Big fan of anime and narrative-driven games (huge RPG/Persona series enthusiast!).
 - 📚 **Hobbies:** Listening to music and reading manga (Naoki Urasawa's works are gold) to balance out my coding routine.
 
