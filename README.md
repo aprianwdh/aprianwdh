@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aprian Widhi Wibowo (@aprianwdh)
+# 👋 Hi, I'm Aprian Widhi Wibowo. (@aprianwdh)
 
 An Informatics Engineering Education student passionate about crafting games and web applications. I bridge the gap between education, clean code, and interactive experiences!
 
